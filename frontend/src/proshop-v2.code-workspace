@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../modernreact/server-configs-forwarding"
+	},
+	{
+		"path": "../../../code-resource"
+	}
+],
+  "settings": {}
+}
